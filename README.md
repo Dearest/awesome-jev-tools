@@ -245,6 +245,7 @@ Source file: [`categories/calibration-research.md`](categories/calibration-resea
 - [jevbetter](https://github.com/olanotolu/jevbetter) - Improved scorer: a stronger one-pass scorer over a variable list of text options, using a hashed n-gram encoder, rival-aware attention, and gated heads.
 - [jevlike-esp32](https://github.com/david-cermak/jevlike-esp32) - Edge deployment: exports a jevlike scorer as ESP32 firmware with a C scorer and a host-side check, putting one-pass decisions on a microcontroller.
 - [von](https://github.com/wfzyx/von) - Open alternative: a 395M non-autoregressive System One model that answers typed questions with calibrated probabilities in under 15 ms, positioned as a local drop-in replacement for Jev.
+- [OneJev](https://github.com/OmniJev/OneJev) - Open models: multimodal System One model in four sizes (0.8B to 27B); typed questions about a screenshot, photo, video or text get a calibrated probability for every option in one forward pass.
 
 ### Infra / SDKs / Integrations
 
