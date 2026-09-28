@@ -378,6 +378,7 @@ Source file: [`categories/related-practices-discussions.md`](categories/related-
 - [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/abs/2609.30216) - Research paper: the first data-driven survey and analysis of Jev's application ecosystem examines 2,170 public GitHub projects, early growth, application domains, and decision-use patterns.
 - [TypeSafe AI's Jev Is Not an LLM - and That May Be the Point](https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/) - News analysis: treats the model's refusal to generate text as the feature rather than a limitation, and follows through on what that implies for inference spend.
 - [Ask HN: What do you think of Noul, a new decision primitive](https://news.ycombinator.com/item?id=49760225) - Hacker News: a proposal to treat `Noul` - the probability-of-true answer type - as a general software primitive rather than a Jev-specific one.
+- [Made with Jev](https://madewithjev.com) - Directory: Jev builds, guides, and use cases with reported cost and speed, plus free Jev-powered tools.
 
 ## Submission format
 
