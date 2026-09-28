@@ -6,6 +6,9 @@ This README is the homepage aggregate of the current category files, so the late
 
 A curated list of public projects and developer patterns built on Jev, TypeSafe AI's System One model for typed decisions.
 
+
+
+
 What is Jev?
   Jev is not a chat model. 
   It does not write text or hold conversations. 
